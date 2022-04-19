@@ -19,7 +19,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
     
-</div>
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=muriel0093&repo=muriel0093&theme=react)](https://github.com/MURIEL0093/MURIEL0093)
+
+  </div>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MURIEL0093&repo=MURIEL0093&theme=react)](https://github.com/MURIEL0093/MURIEL0093)

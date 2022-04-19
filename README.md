@@ -22,6 +22,4 @@
 </div>
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
-</div>
- 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=muriel0093&repo=muriel0093&theme=react)](https://github.com/MURIEL0093/MURIEL0093)
